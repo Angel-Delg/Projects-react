@@ -1,0 +1,1 @@
+GET: https://cataas.com/cat/says/hello?size=50&color=red&json=true
